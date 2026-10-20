@@ -6,7 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://riseinitiatives.github.io', 
+	site: 'https://risedynamics.github.io', 
 	base: '',  
 	integrations: [mdx(), sitemap()],
 	fonts: [
