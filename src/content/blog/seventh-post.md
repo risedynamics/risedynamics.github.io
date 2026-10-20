@@ -10,4 +10,4 @@ RISER V1
 
 ![Riser prototype](../../assets/images/blog7-pic-3.jpg)
 
-✨Make sure to follow rise.initiatives on instagram to get regular updates about RISER✨
+✨Make sure to follow rise.dynamics on instagram to get regular updates about RISER✨

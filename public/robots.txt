@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://riseinitiatives.github.io/sitemap-index.xml
+Sitemap: https://risedynamics.github.io/sitemap-index.xml
